@@ -18,7 +18,7 @@ var x = setInterval(function () {
     if (distance < 0) {
 
         clearInterval(x);
-window.location ="https://gmail.com";
+window.location ="https://fullstackdevdk.github.io/spagetti";
 
     }
 
