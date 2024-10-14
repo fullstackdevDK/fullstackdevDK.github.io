@@ -14,6 +14,12 @@
     background-size: cover;
     overflow: hidden;
 }
+.backgroundcontainer {
+    img {
+        height: 100vh; /* Set the height to auto, so it scales proportionally */
+      }
+    background-position: center;
+}
 
 video {
     object-fit: cover;
